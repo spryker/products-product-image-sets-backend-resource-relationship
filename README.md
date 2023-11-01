@@ -4,6 +4,9 @@
 
 ProductsProductImageSetsBackendResourceRelationship module provides a relationship between products and product images resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/product-image-sets-backend-api](https://github.com/spryker/product-image-sets-backend-api) instead.
+
 ## Installation
 
 ```
